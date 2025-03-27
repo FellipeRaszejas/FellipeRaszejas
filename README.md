@@ -7,6 +7,8 @@ Este são todos meus projetos (pessoais, educacionais, empresariais)
 
 Sinta-se livre para testa-los
 
+
+
   Conhecimento em:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +19,10 @@ Sinta-se livre para testa-los
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<br><br><br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeRaszejas&layout=compact&theme=radical)](https://github.com/FellipeRaszejas)
+
 
 </div>
 <br><br><br>
