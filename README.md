@@ -1,37 +1,56 @@
+# ⚡ Olá, eu sou o Fellipe!
 
-# ⚡Bem-Vindo⚡
+Técnico em Desenvolvimento de Sistemas formado pelo **SESI-SENAI** e atualmente graduando em **Análise e Desenvolvimento de Sistemas (ADS)** no 1º semestre. 
 
-Sou aluno do SESI-SENAI
+Busco evoluir minhas habilidades criando soluções web e mobile funcionais, aplicando boas práticas de código e arquitetura de software.
 
-Este são todos meus projetos (pessoais, educacionais, empresariais)
+---
 
-Sinta-se livre para testa-los
+### 💻 Minhas Tecnologias & Ferramentas
 
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | JavaScript, Java, Dart, HTML5, CSS3 |
+| **Frameworks & Libs** | Spring Boot |
+| **Banco de Dados** | MySQL |
+| **Ferramentas** | Git, GitHub |
 
+<br>
 
-  Conhecimento em:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<br><br><br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeRaszejas&layout=compact&theme=radical)](https://github.com/FellipeRaszejas)
-
-
+<div align="left">
+  <img align="center" alt="JavaScript" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Dart" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="MySQL" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="GitHub" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
-<br><br><br>
-CONTATO:
-  <div align="left">
- <a href="https://www.linkedin.com/in/fellipe-raszejas-6852a0313/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">
-<a href="oliveiraraszejasfellipe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+<br>
+
+---
+
+### 📊 Estatísticas
+
+<div align="left">
+  <a href="https://github.com/FellipeRaszejas">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeRaszejas&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
   </a>
-  <img height="35" alt="Whatsapp logo" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=255B5&logoColor=white&labelColor=&style=for-the-badge">
- </div>
+</div>
+
+<br>
+
+---
+
+### 📫 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fellipe-raszejas-6852a0313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oliveiraraszejasfellipe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
