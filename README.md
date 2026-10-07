@@ -84,8 +84,8 @@ Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da exper
 ## Princípios
 
 - Entender o problema antes de escolher a solução.
-- Produto e código evoluem juntos, e um precisa respeitar o outro.
-- Entregar em ciclos curtos, com clareza sobre o que vem depois.
+- Entender como a máquina compreende meu sistema
+- Entregar em ciclos curtos, com a maior qualidade possível.
 
 ## Contato
 
