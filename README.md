@@ -5,8 +5,8 @@ Desenvolvo software e conduzo produtos digitais, com foco em soluções educacio
 ## Sobre mim
 
 **Formação**
-Técnico em Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Itapetininga).
-Tecnólogo em Análise e Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Sorocaba).
+- Técnico em Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Itapetininga).
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Sorocaba).
 
 **Product Owner**
 Na Plataforma Unisenai Sorocaba, defino prioridades e conduzo a evolução do produto, conectando o que a instituição precisa divulgar ao que a equipe consegue entregar.
@@ -29,78 +29,75 @@ Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da exper
 
 **Projetos anteriores**
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/fleiper/palmer_next"><img src="assets/logos/palmer.png" alt="Logo do Palmer" height="64"></a><br>
-      <a href="https://github.com/fleiper/palmer_next">Palmer</a>
-    </td>
-    <td align="center" width="160">
-      <img src="assets/logos/n-cash.png" alt="Logo do N-CASH" height="64"><br>
-      N-CASH
-    </td>
-    <td align="center" width="160">
-      <img src="assets/logos/evermynd.png" alt="Logo do EverMynd" height="64"><br>
-      EverMynd (antes TWB)
-    </td>
-    <td align="center" width="160">
-      <img src="assets/logos/pais-da-palavra.png" alt="Logo do País da Palavra" height="64"><br>
-      País da Palavra
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/fleiper/palmer_next"><img src="assets/logos/palmer.png" alt="Logo do Palmer" height="56"></a>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/logos/n-cash.png" alt="Logo do N-CASH" height="56">
+&nbsp;&nbsp;&nbsp;
+<img src="assets/logos/evermynd.png" alt="Logo do EverMynd" height="56">
+&nbsp;&nbsp;&nbsp;
+<img src="assets/logos/pais-da-palavra.png" alt="Logo do País da Palavra" height="56">
+
+[Palmer](https://github.com/fleiper/palmer_next) · N-CASH · EverMynd (antes TWB) · País da Palavra
 
 ## Tecnologias
 
-<table>
-  <tr>
-    <td>Back-end</td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql" alt="Java, Spring, PHP, Laravel, MySQL"></td>
-  </tr>
-  <tr>
-    <td>Front-end</td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,bootstrap" alt="React, Next.js, TypeScript, Tailwind, Bootstrap"></td>
-  </tr>
-  <tr>
-    <td>Mobile</td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart"></td>
-  </tr>
-  <tr>
-    <td>Infraestrutura e ferramentas</td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,github" alt="Docker, AWS, GitHub"></td>
-  </tr>
-</table>
+**Back-end**
+<br>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql" alt="Java, Spring, PHP, Laravel, MySQL">
+
+**Front-end**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,bootstrap" alt="React, Next.js, TypeScript, Tailwind, Bootstrap">
+
+**Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart">
+
+**Infraestrutura e ferramentas**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,github" alt="Docker, AWS, GitHub">
 
 ## Trajetória
 
-| Ano | Marco |
-| --- | --- |
-| 2024 | Ingresso no mundo digital. |
-| 2025 | Desenvolvimento do Palmer, sistema de gerenciamento de faculdade. |
-| 2026 | SPSkills, Product Owner da Plataforma Unisenai. Desenvolvimento do GastroMatch. |
-| 2027 | Meta: Graduação com excelência |
-| 2028 | Meta: representar o Brasil na WorldSkills. |
+### 2024
+Ingresso no mundo digital.
+
+<img src="assets/trajetoria/itape.webp" alt="Fachada do SENAI Gaspar Ricardo Junior em Itapetininga" width="480">
+
+*SENAI Gaspar Ricardo Junior (Itapetininga), onde cursei o Técnico em Desenvolvimento de Sistemas.*
+
+### 2025
+Desenvolvimento do **Palmer**, sistema de gerenciamento de faculdade.
+
+### 2026
+**SPSkills**, Product Owner da Plataforma Unisenai e desenvolvimento do **GastroMatch**.
+
+<img src="assets/trajetoria/senai-sorocaba.jpg" alt="Fachada do SENAI Sorocaba" width="480">
+
+*SENAI Sorocaba, onde estudo, treino para as SPSkills e atuo como Product Owner.*
+
+<img src="assets/trajetoria/tecnologias-web-12.jpeg" alt="Participação no evento Tecnologias Web #12" width="280">
+
+*Tecnologias Web #12.*
+
+### 2027
+**Meta:** graduação com excelência.
+
+### 2028
+**Meta:** representar o Brasil na WorldSkills.
 
 ## Princípios
 
 - Entender o problema antes de escolher a solução.
-- Entender como a máquina compreende meu sistema
+- Entender como a máquina compreende meu sistema.
 - Entregar em ciclos curtos, com a maior qualidade possível.
 
 ## Contato
 
-<table>
-  <tr>
-    <td><a href="mailto:oliveiraraszejasfellipe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"></a></td>
-    <td><a href="mailto:oliveiraraszejasfellipe@gmail.com">oliveiraraszejasfellipe@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/fellipe-raszejas-6852a0313/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a></td>
-    <td><a href="https://www.linkedin.com/in/fellipe-raszejas-6852a0313/">linkedin.com/in/fellipe-raszejas-6852a0313</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/GastroMatch-PI"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"></a></td>
-    <td>Organização atual: <a href="https://github.com/GastroMatch-PI">GastroMatch-PI</a></td>
-  </tr>
-</table>
- 
+- **E-mail:** [oliveiraraszejasfellipe@gmail.com](mailto:oliveiraraszejasfellipe@gmail.com)
+- **LinkedIn:** [linkedin.com/in/fellipe-raszejas-6852a0313](https://www.linkedin.com/in/fellipe-raszejas-6852a0313/)
+- **GitHub:** organização atual, [GastroMatch-PI](https://github.com/GastroMatch-PI)
+
+<a href="mailto:oliveiraraszejasfellipe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"></a>
+<a href="https://www.linkedin.com/in/fellipe-raszejas-6852a0313/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
+<a href="https://github.com/GastroMatch-PI"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"></a>
