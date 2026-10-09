@@ -30,59 +30,49 @@ Ciclo de treinamento e competições, da etapa estadual rumo à etapa internacio
 
 ## Projetos
 
+**[GastroMatch](https://github.com/GastroMatch-PI)**
+Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da experiência gastronômica.
+
+**Outros projetos**
+
 <table>
   <tr>
-    <th width="140">Logo</th>
-    <th>Projeto</th>
-    <th>Descrição</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/trajetoria/unisenai.png" alt="Logo UniSENAI Campus Sorocaba" height="64"></td>
-    <td>Plataforma Unisenai</td>
-    <td>Centraliza e divulga os Projetos Integradores e os Projetos de Extensão do SENAI Sorocaba. Atuo como Product Owner.</td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td><a href="https://github.com/GastroMatch-PI">GastroMatch</a></td>
-    <td>Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da experiência gastronômica.</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/fleiper/palmer_next"><img src="assets/logos/palmer.png" alt="Logo do Palmer" height="64"></a></td>
-    <td><a href="https://github.com/fleiper/palmer_next">Palmer</a></td>
-    <td>Sistema de gerenciamento de faculdade.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/logos/evermynd.png" alt="Logo do EverMynd" height="64"></td>
-    <td>EverMynd (antes TWB)</td>
-    <td>Projeto anterior.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/logos/pais-da-palavra.png" alt="Logo do País da Palavra" height="64"></td>
-    <td>País da Palavra</td>
-    <td>Projeto anterior.</td>
+    <td align="center" width="160">
+      <img src="assets/trajetoria/unisenai.png" alt="Logo UniSENAI Campus Sorocaba" height="64"><br>
+      Plataforma Unisenai
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/fleiper/palmer_next"><img src="assets/logos/palmer.png" alt="Logo do Palmer" height="64"></a><br>
+      <a href="https://github.com/fleiper/palmer_next">Palmer</a>
+    </td>
+    <td align="center" width="160">
+      <img src="assets/logos/evermynd.png" alt="Logo do EverMynd" height="64"><br>
+      EverMynd (antes TWB)
+    </td>
+    <td align="center" width="160">
+      <img src="assets/logos/pais-da-palavra.png" alt="Logo do País da Palavra" height="64"><br>
+      País da Palavra
+    </td>
   </tr>
 </table>
 
 ## Tecnologias
 
-<table>
-  <tr>
-    <td>Back-end</td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql" alt="Java, Spring, PHP, Laravel, MySQL"></td>
-  </tr>
-  <tr>
-    <td>Front-end</td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,bootstrap" alt="React, Next.js, TypeScript, Tailwind, Bootstrap"></td>
-  </tr>
-  <tr>
-    <td>Mobile</td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart"></td>
-  </tr>
-  <tr>
-    <td>Infraestrutura e ferramentas</td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,github" alt="Docker, AWS, GitHub"></td>
-  </tr>
-</table>
+**Back-end**
+<br>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql" alt="Java, Spring, PHP, Laravel, MySQL">
+
+**Front-end**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,bootstrap" alt="React, Next.js, TypeScript, Tailwind, Bootstrap">
+
+**Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart">
+
+**Infraestrutura e ferramentas**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,github" alt="Docker, AWS, GitHub">
 
 ## Trajetória
 
