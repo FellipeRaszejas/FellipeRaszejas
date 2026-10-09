@@ -5,16 +5,14 @@ Desenvolvo software e conduzo produtos digitais, com foco em soluções educacio
 ## Sobre mim
 
 **Formação**
+- Técnico em Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Itapetininga).
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Sorocaba).
 
-Técnico em Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Itapetininga).
-
-<img src="assets/trajetoria/itape.webp" alt="Fachada do SENAI Gaspar Ricardo Junior em Itapetininga" width="420">
-
-Tecnólogo em Análise e Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Sorocaba).
-
-<img src="assets/trajetoria/senai-sorocaba.jpg" alt="Fachada do SENAI Sorocaba" width="420">
-&nbsp;
-<img src="assets/trajetoria/tecnologias-web-12.jpeg" alt="Participação no evento Tecnologias Web #12" height="280">
+<p>
+  <img src="assets/trajetoria/itape.webp" alt="Fachada do SENAI Gaspar Ricardo Junior em Itapetininga" height="200">
+  <img src="assets/trajetoria/senai-sorocaba.jpg" alt="Fachada do SENAI Sorocaba" height="200">
+  <img src="assets/trajetoria/tecnologias-web-12.jpeg" alt="Participação no evento Tecnologias Web #12" height="200">
+</p>
 
 **Product Owner**
 Na Plataforma Unisenai Sorocaba, defino prioridades e conduzo a evolução do produto, conectando o que a instituição precisa divulgar ao que a equipe consegue entregar.
@@ -25,9 +23,6 @@ Treino para as competições SPSkills representando o SENAI Sorocaba na etapa es
 ## Atualmente
 
 **Plataforma Unisenai**
-
-<img src="assets/trajetoria/unisenai.png" alt="Logo UniSENAI Campus Sorocaba" width="120">
-
 Plataforma que centraliza e divulga os Projetos Integradores e os Projetos de Extensão do SENAI Sorocaba. Lidero o produto e as próximas atualizações.
 
 **Preparação para a WorldSkills**
@@ -35,36 +30,59 @@ Ciclo de treinamento e competições, da etapa estadual rumo à etapa internacio
 
 ## Projetos
 
-**[GastroMatch](https://github.com/GastroMatch-PI)**
-Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da experiência gastronômica.
-
-**Projetos anteriores**
-
-<a href="https://github.com/fleiper/palmer_next"><img src="assets/logos/palmer.png" alt="Logo do Palmer" height="56"></a>
-&nbsp;&nbsp;&nbsp;
-<img src="assets/logos/evermynd.png" alt="Logo do EverMynd" height="56">
-&nbsp;&nbsp;&nbsp;
-<img src="assets/logos/pais-da-palavra.png" alt="Logo do País da Palavra" height="56">
-
-[Palmer](https://github.com/fleiper/palmer_next) · EverMynd (antes TWB) · País da Palavra
+<table>
+  <tr>
+    <th width="140">Logo</th>
+    <th>Projeto</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/trajetoria/unisenai.png" alt="Logo UniSENAI Campus Sorocaba" height="64"></td>
+    <td>Plataforma Unisenai</td>
+    <td>Centraliza e divulga os Projetos Integradores e os Projetos de Extensão do SENAI Sorocaba. Atuo como Product Owner.</td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td><a href="https://github.com/GastroMatch-PI">GastroMatch</a></td>
+    <td>Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da experiência gastronômica.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/fleiper/palmer_next"><img src="assets/logos/palmer.png" alt="Logo do Palmer" height="64"></a></td>
+    <td><a href="https://github.com/fleiper/palmer_next">Palmer</a></td>
+    <td>Sistema de gerenciamento de faculdade.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/logos/evermynd.png" alt="Logo do EverMynd" height="64"></td>
+    <td>EverMynd (antes TWB)</td>
+    <td>Projeto anterior.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/logos/pais-da-palavra.png" alt="Logo do País da Palavra" height="64"></td>
+    <td>País da Palavra</td>
+    <td>Projeto anterior.</td>
+  </tr>
+</table>
 
 ## Tecnologias
 
-**Back-end**
-<br>
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql" alt="Java, Spring, PHP, Laravel, MySQL">
-
-**Front-end**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,bootstrap" alt="React, Next.js, TypeScript, Tailwind, Bootstrap">
-
-**Mobile**
-<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart">
-
-**Infraestrutura e ferramentas**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,aws,github" alt="Docker, AWS, GitHub">
+<table>
+  <tr>
+    <td>Back-end</td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql" alt="Java, Spring, PHP, Laravel, MySQL"></td>
+  </tr>
+  <tr>
+    <td>Front-end</td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,bootstrap" alt="React, Next.js, TypeScript, Tailwind, Bootstrap"></td>
+  </tr>
+  <tr>
+    <td>Mobile</td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart"></td>
+  </tr>
+  <tr>
+    <td>Infraestrutura e ferramentas</td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,github" alt="Docker, AWS, GitHub"></td>
+  </tr>
+</table>
 
 ## Trajetória
 
@@ -84,10 +102,8 @@ Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da exper
 
 ## Contato
 
-- **E-mail:** [oliveiraraszejasfellipe@gmail.com](mailto:oliveiraraszejasfellipe@gmail.com)
-- **LinkedIn:** [linkedin.com/in/fellipe-raszejas-6852a0313](https://www.linkedin.com/in/fellipe-raszejas-6852a0313/)
-- **GitHub:** organização atual, [GastroMatch-PI](https://github.com/GastroMatch-PI)
+<a href="mailto:oliveiraraszejasfellipe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="28" align="center"></a>&nbsp;&nbsp;<a href="mailto:oliveiraraszejasfellipe@gmail.com">oliveiraraszejasfellipe@gmail.com</a>
 
-<a href="mailto:oliveiraraszejasfellipe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"></a>
-<a href="https://www.linkedin.com/in/fellipe-raszejas-6852a0313/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
-<a href="https://github.com/GastroMatch-PI"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"></a>
+<a href="https://www.linkedin.com/in/fellipe-raszejas-6852a0313/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="28" align="center"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fellipe-raszejas-6852a0313/">linkedin.com/in/fellipe-raszejas-6852a0313</a>
+
+<a href="https://github.com/GastroMatch-PI"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="28" align="center"></a>&nbsp;&nbsp;Organização atual: <a href="https://github.com/GastroMatch-PI">GastroMatch-PI</a>
