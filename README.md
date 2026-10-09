@@ -5,8 +5,16 @@ Desenvolvo software e conduzo produtos digitais, com foco em soluções educacio
 ## Sobre mim
 
 **Formação**
-- Técnico em Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Itapetininga).
-- Tecnólogo em Análise e Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Sorocaba).
+
+Técnico em Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Itapetininga).
+
+<img src="assets/trajetoria/itape.webp" alt="Fachada do SENAI Gaspar Ricardo Junior em Itapetininga" width="420">
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas, SENAI Gaspar Ricardo Junior (Sorocaba).
+
+<img src="assets/trajetoria/senai-sorocaba.jpg" alt="Fachada do SENAI Sorocaba" width="420">
+&nbsp;
+<img src="assets/trajetoria/tecnologias-web-12.jpeg" alt="Participação no evento Tecnologias Web #12" height="280">
 
 **Product Owner**
 Na Plataforma Unisenai Sorocaba, defino prioridades e conduzo a evolução do produto, conectando o que a instituição precisa divulgar ao que a equipe consegue entregar.
@@ -17,6 +25,9 @@ Treino para as competições SPSkills representando o SENAI Sorocaba na etapa es
 ## Atualmente
 
 **Plataforma Unisenai**
+
+<img src="assets/trajetoria/unisenai.png" alt="Logo UniSENAI Campus Sorocaba" width="120">
+
 Plataforma que centraliza e divulga os Projetos Integradores e os Projetos de Extensão do SENAI Sorocaba. Lidero o produto e as próximas atualizações.
 
 **Preparação para a WorldSkills**
@@ -31,13 +42,11 @@ Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da exper
 
 <a href="https://github.com/fleiper/palmer_next"><img src="assets/logos/palmer.png" alt="Logo do Palmer" height="56"></a>
 &nbsp;&nbsp;&nbsp;
-<img src="assets/logos/n-cash.png" alt="Logo do N-CASH" height="56">
-&nbsp;&nbsp;&nbsp;
 <img src="assets/logos/evermynd.png" alt="Logo do EverMynd" height="56">
 &nbsp;&nbsp;&nbsp;
 <img src="assets/logos/pais-da-palavra.png" alt="Logo do País da Palavra" height="56">
 
-[Palmer](https://github.com/fleiper/palmer_next) · N-CASH · EverMynd (antes TWB) · País da Palavra
+[Palmer](https://github.com/fleiper/palmer_next) · EverMynd (antes TWB) · País da Palavra
 
 ## Tecnologias
 
@@ -59,32 +68,13 @@ Em desenvolvimento ativo. Conecta usuários e estabelecimentos a partir da exper
 
 ## Trajetória
 
-### 2024
-Ingresso no mundo digital.
-
-<img src="assets/trajetoria/itape.webp" alt="Fachada do SENAI Gaspar Ricardo Junior em Itapetininga" width="480">
-
-*SENAI Gaspar Ricardo Junior (Itapetininga), onde cursei o Técnico em Desenvolvimento de Sistemas.*
-
-### 2025
-Desenvolvimento do **Palmer**, sistema de gerenciamento de faculdade.
-
-### 2026
-**SPSkills**, Product Owner da Plataforma Unisenai e desenvolvimento do **GastroMatch**.
-
-<img src="assets/trajetoria/senai-sorocaba.jpg" alt="Fachada do SENAI Sorocaba" width="480">
-
-*SENAI Sorocaba, onde estudo, treino para as SPSkills e atuo como Product Owner.*
-
-<img src="assets/trajetoria/tecnologias-web-12.jpeg" alt="Participação no evento Tecnologias Web #12" width="280">
-
-*Tecnologias Web #12.*
-
-### 2027
-**Meta:** graduação com excelência.
-
-### 2028
-**Meta:** representar o Brasil na WorldSkills.
+| Ano | Marco |
+| --- | --- |
+| 2024 | Ingresso no mundo digital. |
+| 2025 | Desenvolvimento do Palmer, sistema de gerenciamento de faculdade. |
+| 2026 | SPSkills, Product Owner da Plataforma Unisenai. Desenvolvimento do GastroMatch. |
+| 2027 | Meta: Graduação com excelência |
+| 2028 | Meta: representar o Brasil na WorldSkills. |
 
 ## Princípios
 
